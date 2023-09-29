@@ -64,7 +64,7 @@ namespace ContosoUniversity.Controllers
         public IActionResult Create()
         {
             var instructor = new Instructor();
-            instructor.CourseAssignments=new List<CourseAssignment>();
+            instructor.CourseAssignments = new List<CourseAssignment>();
             return View();
         }
         [HttpPost]
@@ -96,7 +96,7 @@ namespace ContosoUniversity.Controllers
         [HttpGet]
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null) 
+            if (id == null)
             {
                 return NotFound();
             }

@@ -2045,11 +2045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityTARpe22-main\\ContosoUniversityTARpe22-main\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\contosopat\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityTARpe22-main\\ContosoUniversityTARpe22-main\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\contosopat\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\ContosoUniversityTARpe22-main\\ContosoUniversityTARpe22-main\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\contosopat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
